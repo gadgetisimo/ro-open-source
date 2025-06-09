@@ -68,4 +68,20 @@
 
 ---
 
+## 📚 Alte liste de proiecte open source românești  
+> Other curated open source lists related to Romania
+
+- [IonicaBizau/made-in-romania](https://github.com/IonicaBizau/made-in-romania) – Listă de proiecte românești organizate pe limbaje. Ultimul update: 2025.  
+  👉 *List of Romanian-developed projects grouped by programming language.*
+
+- [Code for Romania GitHub](https://github.com/code4romania) – Index activ de civic-tech (Vot Diaspora, Harta ONG, DOPOMOHA).  
+  👉 *Official repo index for Romanian civic-tech initiatives.*
+
+- [awesome-open-source-by-country-or-region](https://github.com/slowernews/awesome-open-source-by-country-or-region) – Colecție globală de liste awesome, cu secțiune dedicată României.  
+  👉 *Worldwide collection of awesome lists by country – includes Romania.*
+
+- [romanian-nlp-datasets](https://github.com/AndyTheFactory/romanian-nlp-datasets) – Seturi de date NLP pentru limba română: FuLG, Oscar, CC-100 etc.  
+  👉 *Curated NLP datasets for Romanian language.*
+---
+
 > 💡 Lista este în continuă actualizare. Dacă știi proiecte relevante dezvoltate în România, contribuie cu un pull request sau scrie autorului pe [gadgetisimo.ro](https://gadgetisimo.ro).
