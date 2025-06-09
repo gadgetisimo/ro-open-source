@@ -1,5 +1,5 @@
 > 🇷🇴 Această listă este în limba română.  
-> 🇬🇧 For English version, scroll down to [English version](#english-version)
+> 🇬🇧 For English version, scroll down to [English version](#-english-version)
 ---
 # 🇷🇴 Proiecte Open Source din România ![Awesome](https://awesome.re/badge.svg)
 
