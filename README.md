@@ -98,7 +98,10 @@
 ## 🇬🇧 English version
 
 _A curated list of open source projects developed in Romania or by Romanian developers._
-
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Made in Romania](https://img.shields.io/badge/made%20in-Romania-blue)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 > Maintained by [gadgetisimo.ro](https://gadgetisimo.ro) – a non-commercial tech blog from Romania.
 
 ---
