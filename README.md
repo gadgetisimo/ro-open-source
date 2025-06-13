@@ -3,7 +3,11 @@
 ---
 # 🇷🇴 Proiecte Open Source din România ![Awesome](https://awesome.re/badge.svg)
 
-> O listă curatoriată de proiecte open source dezvoltate în România sau de autori români.  
+> O listă curatoriată de proiecte open source dezvoltate în România sau de autori români.
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![Made in Romania](https://img.shields.io/badge/made%20in-Romania-blue)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)  
 > Curator: [gadgetisimo.ro](https://gadgetisimo.ro) – blog tech independent & non-comercial.
 
 ---
