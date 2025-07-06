@@ -14,14 +14,13 @@
 
 ## 🔝 Proiecte populare (500+ stele)
 
-- [UglifyJS](https://github.com/mishoo/UglifyJS) – Minificator JavaScript folosit în Webpack și alte tool-uri. *(13.3k ★)*
-- [git-stats](https://github.com/IonicaBizau/git-stats) – Statistici vizuale în terminal pentru Git. *(6.3k ★)*
-- [VvvebJs](https://github.com/givanz/VvvebJs) – Page builder JS drag-and-drop pentru pagini web. *(7.7k ★)*
-- [Wintoys](https://github.com/builtbybel/Wintoys) – Tool de optimizare și tweak-uri pentru Windows. *(5.5k ★)*
-- [Mantine DataTable](https://github.com/icflorescu/mantine-datatable) – Componență performantă de tabel pentru framework-ul React Mantine. *(830 ★)*
-- [RISE Project VIS](https://github.com/RiseProject/vis) – Platformă de vizualizare pentru investigații jurnalistice. *(800 ★)*
+- [UglifyJS](https://github.com/mishoo/UglifyJS) – UglifyJS este un set de unelte pentru analiza, compactarea, comprimarea și formatarea codului JavaScript. *(13.3k ★)*
+- [git-stats](https://github.com/IonicaBizau/git-stats) – Statistici locale pentru depozitele Git, inclusiv calendare de contribuții similare cu cele de pe GitHub. *(6.3k ★)*
+- [VvvebJs](https://github.com/givanz/VvvebJs) – Bibliotecă drag & drop pentru creare de pagini web, fără dependențe, scrisă în Vanilla JS și compatibilă cu Bootstrap 5. *(7.7k ★)*
+- [Wintoys](https://github.com/builtbybel/Wintoys) – Tool de optimizare și tweak-uri pentru Windows 10 & 11. *(5.5k ★)*
+- [Mantine DataTable](https://github.com/icflorescu/mantine-datatable) – Componentă de tabel compatibilă cu Mantine UI și dark mode, cu suport pentru sortare, paginare, selecție de rânduri și celule personalizate. *(830 ★)*
 - [Code for Romania](https://github.com/code4romania) – Proiecte civice: Vot Diaspora, Harta ONG etc. *(1.2k ★)*
-- [cypress-terminal-report](https://github.com/archfz/cypress-terminal-report) – Plugin Cypress cu loguri detaliate în terminal sau fișiere CI. *(518 ★)*
+- [cypress-terminal-report](https://github.com/archfz/cypress-terminal-report) – Plugin Cypress care afișează în terminal comenzile, logurile și cererile din teste. Ușurează depanarea și este util în CI/CD. *(518 ★)*
 
 ---
 
@@ -29,30 +28,29 @@
 
 - [OpenLLM-Ro](https://github.com/OpenLLM-Ro) – Modele LLM românești precum RoLLaMA2 și RoMistral.
 - [Romanian Transformers](https://github.com/dumitrescustefan/Romanian-Transformers) – Modele NLP pentru limba română în HuggingFace.
-- [LLM Steer](https://github.com/Mihaiii/llm_steer) – Tool pentru ghidarea deciziilor în LLM-uri.
-- [Backtrack Sampler](https://github.com/Mihaiii/backtrack_sampler) – Algoritm de eșantionare pentru inferență eficientă.
-- [TimeStampBuddy](https://github.com/Mihaiii/TimeStampBuddy) – Unelte pentru lucrul cu timestamp-uri.
-- [Semantic Autocomplete](https://github.com/Mihaiii/semantic-autocomplete) – Autocompletare semantică pentru cod.
+- [LLM Steer](https://github.com/Mihaiii/llm_steer) – Modul Python care ghidează răspunsurile LLM-urilor prin vectori interni, pentru integrare avansată cu `transformers`.
+- [Backtrack Sampler](https://github.com/Mihaiii/backtrack_sampler) – Framework pentru testarea algoritmilor de sampling care permit revenirea asupra tokenilor generați de un LLM, pentru explorarea unor alternative mai bune.
+- [TimeStampBuddy](https://github.com/Mihaiii/TimeStampBuddy) – Aplicație care generează automat timestamp-uri pentru videoclipuri YouTube, folosind un model LLM.
+- [Semantic Autocomplete](https://github.com/Mihaiii/semantic-autocomplete) – Componentă React pentru MUI care oferă autocomplete semantic, folosind un model ML mic, cuantizat, ce rulează local în browser, fără server sau dependențe externe.
+- [Trivia](https://github.com/Mihaiii/trivia) – Joc trivia multiplayer cu întrebări generate de LLM. Include licitație pe subiect, scor pe viteză și suport pentru mobil.
 
 ---
 
 ## 🌐 Web, CMS & Interfețe
 
 - [Vvveb](https://github.com/givanz/Vvveb) – Framework modular pentru editare de pagini HTML.
-- [DotKernel](https://github.com/dotkernel) – Framework PHP enterprise pentru aplicații web.
-- [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) – Integrare între tRPC și SvelteKit.
+- [DotKernel](https://github.com/dotkernel) – Platformă headless bazată pe Mezzio și Laminas, ce permite integrare ușoară între backend și orice frontend, conform standardelor PSR.
+- [tRPC-SvelteKit](https://github.com/icflorescu/trpc-sveltekit) – Creează rapid aplicații SvelteKit cu API-uri end-to-end complet tipizate, fără să compromiți stabilitatea.
 - [Social Media Posts Scheduler](https://github.com/ClimenteA/social-media-posts-scheduler) – Planificator de postări pentru rețele sociale.
 - [PFASimplu](https://github.com/ClimenteA/PFASimplu) – Unelte contabile pentru PFA, SRL, microîntreprindere.
+- [Flamewing Template Engine](https://github.com/pazvanti/Phoenix) – Motor de template-uri simplu și rapid, cu randare pe server (SSR), ideal pentru integrarea între backend și interfața HTML.
 
 ---
 
 ## ⚙️ CLI, Tooling & Diverse
 
-- [RustNSparks](https://github.com/RustNSparks) – Unelte CLI rapide scrise în Rust.
-- [WorkLifeBalance](https://github.com/szr2001/WorkLifeBalance) – Plugin Obsidian pentru urmărirea echilibrului muncă-viață.
-- [Phoenix](https://github.com/pazvanti/Phoenix) – Framework TypeScript pentru sisteme reactive.
-- [Trivia](https://github.com/Mihaiii/trivia) – Joc trivia pentru CLI.
-- [Mida](https://github.com/Reiryoku-Technologies/Mida) – Framework TypeScript/C++ pentru boti de trading (Binance, Bybit etc.).
+- [RustNSparks](https://github.com/RustNSparks) – Organizație axată pe dezvoltarea de proiecte open-source în Rust, cu focus pe rețelistică, comunicații în timp real și utilitare de sistem. Prioritizează eficiența, scalabilitatea și securitatea.
+- [WorkLifeBalance](https://github.com/szr2001/WorkLifeBalance) – Aplicație de productivitate care monitorizează timpul de lucru și pauză. Oferă automatizări, statistici de activitate și compararea evoluției productivității în timp.
 
 ---
 
@@ -70,7 +68,6 @@
 ## 🗳️ Civic Tech & Comunitate
 
 - [Code for Romania](https://github.com/code4romania) – Aplicații civice și soluții pentru ONG-uri.
-- [RISE Project VIS](https://github.com/RiseProject/vis) – Vizualizări pentru investigații de presă.
 - [Lemmit-ro](https://gitlab.com/egos-tech/swarm/lemmit-ro) – Clonă Reddit descentralizată în română, bazată pe Lemmy.
 
 ---
